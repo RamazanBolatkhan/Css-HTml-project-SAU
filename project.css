@@ -1,0 +1,35 @@
+body{
+	background-color: blue;
+}
+h1{
+	cursor: pointer;
+}
+h1:active{
+       font-size: 50px; 
+}
+h1{
+	text-align: center;
+}
+.elee{
+	text-align: center;
+}
+.pc{ 
+	margin-bottom: 25px; 
+
+}
+.Toxics{
+	cursor: pointer;
+}
+.Toxics:active{
+	font-size:50px;
+
+}
+.pc{
+	margin-left: 30px;
+}
+.text{
+	margin-left: 30px;
+}
+.ts{
+	margin-left: 800px;
+}
